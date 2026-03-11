@@ -4,6 +4,7 @@
 # Taller de Seguridad de la Información
 
 Este repositorio documenta el desarrollo completo del **Primer Taller de Seguridad de la Información** realizado en la Fundación Universitaria Compensar. Se aplicaron herramientas de auditoría, escaneo y análisis en Kali Linux, con evidencias visuales y explicaciones detalladas por cada punto.
+#This a test in class to prove how we can use GitHub to share files with people or using in private mode.
 
 ---
 
