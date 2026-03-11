@@ -5,6 +5,9 @@
 
 Este repositorio documenta el desarrollo completo del **Primer Taller de Seguridad de la Información** realizado en la Fundación Universitaria Compensar. Se aplicaron herramientas de auditoría, escaneo y análisis en Kali Linux, con evidencias visuales y explicaciones detalladas por cada punto.
 
+## Kali linux installation
+
+This is a test in class to prove any commands in Kali Linuex which is a software to pentest , to hack and meke test in unsecure site or apps.
 ---
 
 ## Verificación de herramientas
